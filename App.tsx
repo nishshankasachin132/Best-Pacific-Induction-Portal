@@ -147,8 +147,6 @@ const LoginPage: React.FC<{ onLogin: (email: string, pass: string) => void }> = 
 
             <Button type="submit" className="w-full py-4 text-lg">Start Induction</Button>
           </form>
-          
-          {/* Demo Details Removed as Requested */}
         </Card>
       </div>
     </div>
