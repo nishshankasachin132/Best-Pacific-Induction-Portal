@@ -1,0 +1,8 @@
+{
+  "name": "Best Pacific Induction Portal",
+  "description": "A comprehensive corporate induction portal for Best Pacific Textiles Lanka, featuring admin content management, user tracking, and an AI-powered company knowledge assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
